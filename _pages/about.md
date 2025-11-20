@@ -27,7 +27,6 @@ description: "Econometrics • Bayesian Methods • Macroeconomics"
 ### Education
 
 - **M.A. in Economics**, Korea University, Korea  
-  *Thesis: Robust Bayesian inference in nonregular time-series models* <!-- optional -->
 
 - **B.Econ. in Economics & B.Econ. in Statistics**, Korea University, Korea  
 
@@ -52,14 +51,6 @@ Structural Breaks under Misspecification**
   <br>
   [Draft](https://www.dropbox.com/scl/fi/0jkso1dhbx9h4z9bb28tj/WritingSample1.pdf?rlkey=zi1di9757ulvqkp9bdozmhr4h&st=wxmlk9s9&dl=0)
 
-### Research Interests in More Detail
-
-My current research focuses on robust Bayesian and quasi-Bayesian methods for nonregular models, including:
-
-- Structural breaks and threshold regressions  
-- Parameter-dependent support and nonstandard asymptotics  
-- Robustified likelihoods and learning-rate selection  
-- Applications to macroeconometrics and dynamic factor models  
 
 ---
 
@@ -80,11 +71,3 @@ My current research focuses on robust Bayesian and quasi-Bayesian methods for no
 - **Research Interests for PhD**  
   Planning to pursue a PhD in Economics with a focus on macroeconometrics, robust inference, and Bayesian/frequentist bridges in time-series analysis.
 
----
-
-## Contact
-
-- **Email:** [your.name@somewhere.com](mailto:your.name@somewhere.com)  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-- **Google Scholar:** [Profile](https://scholar.google.com)  
-- **Location:** Seoul, Republic of Korea
