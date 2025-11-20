@@ -19,7 +19,7 @@ redirect_from:
 
 - **B.Econ. in Economics & Statistics**, Korea University, Korea  
 
-- **B.A. in Global Political Economy**, Waseda University (SPSE), Japan  
+- **B.A. in Global Political Economy**, Waseda University, Japan  
 
 ---
 
