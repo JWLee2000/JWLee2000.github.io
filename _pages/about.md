@@ -1,4 +1,5 @@
 ---
+permalink: /about.html
 layout: page        # or 'home' / 'default' depending on your theme
 title: "Jaewon (William) Lee"
 description: "Econometrics • Bayesian Methods • Macroeconomics"
