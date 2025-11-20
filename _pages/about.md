@@ -8,11 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## Jaewon (William) Lee
-
-### M.A. in Economics  
-### Korea University
-
 - Email: [wonizx05@korea.ac.kr](mailto:wonizx05@korea.ac.kr)  
 - CV: [Download CV](https://www.dropbox.com/scl/fi/is5h9nk16k0bn4kzqhjkq/CV.pdf?rlkey=4ws4q4n82o90baws1d3mrifbv&st=cm0gk4er&dl=0) <!-- update link -->
 
