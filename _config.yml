@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ME.jpg"
   name             : "Jaewon (William) Lee"
   pronouns         : # example: "she/her"  
   bio              : "PhD Applicant in Economics"
