@@ -1,7 +1,7 @@
 ---
 layout: page        # or 'home' / 'default' depending on your theme
 title: "Jaewon (William) Lee"
-description: "Econometrics • Bayesian Methods • Macroeconometrics"
+description: "Econometrics • Bayesian Methods • Macroeconomics"
 ---
 
 ## Jaewon (William) Lee
@@ -9,10 +9,8 @@ description: "Econometrics • Bayesian Methods • Macroeconometrics"
 ### M.A. in Economics  
 ### Korea University
 
-- Email: [your.name@somewhere.com](mailto:your.name@somewhere.com)  
-- GitHub: [github.com/yourusername](https://github.com/yourusername)  
-- CV: [Download CV](cv.pdf) <!-- update link -->
-- Google Scholar: [Profile](https://scholar.google.com) <!-- update link -->
+- Email: [wonizx05@korea.ac.kr](mailto:wonizx05@korea.ac.kr)  
+- CV: [Download CV](https://www.dropbox.com/scl/fi/is5h9nk16k0bn4kzqhjkq/CV.pdf?rlkey=4ws4q4n82o90baws1d3mrifbv&st=cm0gk4er&dl=0) <!-- update link -->
 
 ---
 
@@ -22,7 +20,7 @@ description: "Econometrics • Bayesian Methods • Macroeconometrics"
 - Bayesian Econometrics  
 - Macroeconometrics  
 - Time-Series Econometrics  
-- Robust Inference for Nonregular Models (e.g., structural breaks, threshold models)
+- Nonregular Models (e.g., structural breaks, threshold models)
 
 ---
 
@@ -31,7 +29,7 @@ description: "Econometrics • Bayesian Methods • Macroeconometrics"
 - **M.A. in Economics**, Korea University, Korea  
   *Thesis: Robust Bayesian inference in nonregular time-series models* <!-- optional -->
 
-- **B.Econ. in Economics & Statistics**, Korea University, Korea  
+- **B.Econ. in Economics & B.Econ. in Statistics**, Korea University, Korea  
 
 - **B.A. in Global Political Economy**, Waseda University (SPSE), Japan  
 
@@ -41,16 +39,18 @@ description: "Econometrics • Bayesian Methods • Macroeconometrics"
 
 ### Working Papers
 
-- **Robust Bayesian Inference in Structural Break Models under Misspecification**  
+- **Bayesian Inference for Multivariate Regressions with
+Structural Breaks under Misspecification**  
   with Yunjong Eo  
   *Revise and Resubmit, Journal of Econometrics* <!-- edit status as needed -->
   <br>
-  [Draft / PDF](#) · [Code](#) <!-- update links -->
+  [Draft](https://www.dropbox.com/scl/fi/e0hrwtfynlrocb6o5d6i9/WritingSample2.pdf?rlkey=a8h0c2g99h35c6qi5zeg8b97y&st=xquvj4kv&dl=0) <!-- update links -->
 
-- **Generalized α-Posteriors for Nonregular Models**  
-  *Working paper*  
+- **Robust and Efficient Inference for Nonregular Models under Misspecification**
+  with Yunjong Eo  
+  *Working Paper*
   <br>
-  [Draft / PDF](#)
+  [Draft](https://www.dropbox.com/scl/fi/0jkso1dhbx9h4z9bb28tj/WritingSample1.pdf?rlkey=zi1di9757ulvqkp9bdozmhr4h&st=wxmlk9s9&dl=0)
 
 ### Research Interests in More Detail
 
@@ -67,13 +67,7 @@ My current research focuses on robust Bayesian and quasi-Bayesian methods for no
 
 *Teaching assistant and teaching experience details can go here. Examples:*
 
-- **Econometrics (Graduate / M.A.)**, Korea University – Teaching Assistant  
-- **Inferential Statistics**, Korea University – Teaching Assistant  
-
-You can also list:
-
-- Office hours (if applicable)  
-- Links to course pages, lecture notes, or problem sets  
+- **Macroeconomics**, Korea University – Teaching Assistant  
 
 ---
 
