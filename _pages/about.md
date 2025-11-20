@@ -1,8 +1,11 @@
 ---
-permalink: /about.html
-layout: page        # or 'home' / 'default' depending on your theme
+permalink: /
 title: "Jaewon (William) Lee"
 description: "Econometrics • Bayesian Methods • Macroeconomics"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 ## Jaewon (William) Lee
