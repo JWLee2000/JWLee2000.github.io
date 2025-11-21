@@ -17,7 +17,7 @@ redirect_from:
 
 - **M.A. in Economics**, Korea University, Korea  
 
-- **B.Econ. in Economics & Statistics**, Korea University, Korea  
+- **B.Econ. x2 in Economics & Statistics**, Korea University, Korea  
 
 - **B.A. in Global Political Economy**, Waseda University, Japan  
 
