@@ -45,12 +45,12 @@ Structural Breaks under Misspecification**
   <br>
   [Draft](https://www.dropbox.com/scl/fi/e0hrwtfynlrocb6o5d6i9/WritingSample2.pdf?rlkey=a8h0c2g99h35c6qi5zeg8b97y&st=xquvj4kv&dl=0) <!-- update links -->
 
+### In Progress
 - **Robust and Efficient Inference for Nonregular Models under Misspecification**
   with Yunjong Eo  
-  *Working Paper*
-  <br>
-  [Draft](https://www.dropbox.com/scl/fi/0jkso1dhbx9h4z9bb28tj/WritingSample1.pdf?rlkey=zi1di9757ulvqkp9bdozmhr4h&st=wxmlk9s9&dl=0)
 
+
+  
 ---
 
 ## Teaching
