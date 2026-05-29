@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ### About
-Hi, my name is Jaewon “William” Lee, and I am an incoming Economics PhD student at Columbia University. I am currently interested in Time Series Econometrics and Macroeconomics. You can find additional information about me below.
+Hi, my name is Jaewon “William” Lee, and I am an incoming Economics PhD student at Columbia University. You can find additional information about me below.
 
 - Email:  [jl7558@columbia.edu](mailto:jl7558@columbia.edu)
 - CV: [Download CV](https://www.dropbox.com/scl/fi/is5h9nk16k0bn4kzqhjkq/CV.pdf?rlkey=4ws4q4n82o90baws1d3mrifbv&st=cm0gk4er&dl=0)
